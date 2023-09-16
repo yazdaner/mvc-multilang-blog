@@ -1,0 +1,222 @@
+{
+    "A fresh verification link has been sent to your email address.": "تم إرسال رابط تحقق جديد إلى عنوان بريدك الإلكتروني.",
+    "All rights reserved.": "جميع الحقوق محفوظة.",
+    "Before proceeding, please check your email for a verification link.": "قبل المتابعة، يرجى التحقق من بريدك الإلكتروني عن رابط التحقق.",
+    "click here to request another": "انقر هنا لطلب آخر",
+    "Confirm Password": "تأكيد كلمة المرور",
+    "E-Mail Address": "البريد الالكتروني",
+    "Error": "خطأ",
+    "Forbidden": "محظور",
+    "Forgot Your Password?": "نسيت كلمة المرور؟",
+    "Go Home": "الرئيسية",
+    "Hello!": "أهلاً بك!",
+    "hi": "مرحباً",
+    "If you did not create an account, no further action is required.": "إذا لم تقم بإنشاء حساب ، فلا يلزم اتخاذ أي إجراء آخر.",
+    "If you did not receive the email": "إذا لم تستلم البريد الإلكتروني",
+    "If you did not request a password reset, no further action is required.": "إذا لم تقم بطلب استعادة كلمة المرور، لا تحتاج القيام بأي إجراء.",
+    "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:actionURL](:actionURL)": "إذا كنت تواجه مشكلة في النقر على الزر \":actionText \"، يمكنك نسخ عنوان URL أدناه\n وألصقه في متصفح الويب: [:actionURL](:actionURL)",
+    "Login": "تسجيل الدخول",
+    "Logout": "تسجيل الخروج",
+    "Name": "الاسم",
+    "Oh no": "انتبه",
+    "Page Expired": "الصفحة منتهية الصلاحية",
+    "Page Not Found": "الصفحة غير موجودة",
+    "Password": "كلمة المرور",
+    "Please click the button below to verify your email address.": "يرجى النقر على الزر أدناه للتحقق من عنوان بريدك الإلكتروني.",
+    "Regards": "مع التحية",
+    "Register": "تسجيل",
+    "Remember Me": "تذكرني",
+    "Reset Password": "استعادة كلمة المرور",
+    "Reset Password Notification": "تنبيه استعادة كلمة المرور",
+    "Send Password Reset Link": "أرسل رابط استعادة كلمة المرور",
+    "Service Unavailable": "الخدمة غير متوفرة",
+    "Sorry, the page you are looking for could not be found.": "عذرًا، تعذر العثور على الصفحة التي تبحث عنها.",
+    "Sorry, you are forbidden from accessing this page.": "عذراً، ليست لديك صلاحية الوصول إلى هذه الصفحة.",
+    "Sorry, you are making too many requests to our servers.": "عذرًا، أنت ترسل طلبات كثيرة جدًا إلى خوادمنا.",
+    "Sorry, you are not authorized to access this page.": "عذرًا، أنت غير مصرح لك بالوصول إلى هذه الصفحة.",
+    "Sorry, your session has expired. Please refresh and try again.": "عذرًا، لقد انتهت صلاحية جلستك. يرجى التحديث والمحاولة مرة أخرى.",
+    "Sorry, we are doing some maintenance. Please check back soon.": "عذرًا، نقوم ببعض الصيانة حالياً. الرجاء التحقق مرة أخرى قريباً.",
+    "This password reset link will expire in :count minutes.": "ستنتهي صلاحية رابط استعادة كلمة المرور خلال :count دقيقة.",
+    "Toggle navigation": "إظهار/إخفاء القائمة",
+    "Too Many Requests": "طلبات كثيرة جداً",
+    "Unauthorized": "غير مصرح",
+    "This action is unauthorized.": "هذا الإجراء غير مصرح به.",
+    "Verify Email Address": "التحقق من عنوان البريد الإلكتروني",
+    "Verify Your Email Address": "تحقق من عنوان البريد الإلكتروني الخاص بك",
+    "You are receiving this email because we received a password reset request for your account.": "لقد استلمت هذا البريد الإلكتروني لأننا استقبلنا طلباً لاستعادة كلمة مرور حسابك.",
+    "Whoops!": "عذراً!",
+    "Whoops, something went wrong on our servers.": "عفوًا، حدث خطأ ما على خوادمنا.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Profile": "حساب تعريفي",
+    "Email": "بريد إلكتروني",
+
+
+
+
+
+
+
+    "Hello!" : "مرحباً !",
+    "Earthquake catalog search" : "البحث فی کتالوج الزلازل",
+    "Start date": "التاریخ البدءِ",
+    "End date": "التاریخ النتهاءِ",
+    "Minimum depth": "أدنی عمق",
+    "Maximum depth": "أقمی عمق",
+    "Minimum magnitude": "أدنی قدر من ریختر",
+    "Maximum magnitude": "أعظم قدر من ریختر",
+    "Minimum latitude": "خط العرض الأدنی",
+    "Maximum latitude": "أعلی خط العرض",
+    "Minimum longitude": "أدنی خط طول",
+    "Maximum longitude": "اکثر خط طول",
+    "order by": "ترتیب حسب",
+    "descending time": " تنازلی الوقت الأصلی",
+    "ascending time": "تماعدی اوقت المنشاء",
+    "descending magnitude": " تنازلی شدةالریختر",
+    "ascending magnitude": "تماعدی شدة الریختر",
+    "Excel": "اکسل البناءِ",
+
+    "source": "مصدر",
+    "hour": "الساعة",
+    "map": "الخریطة",
+    "date": "التاریخ",
+    "magnitude": "المقایس الریختر",
+    "depth": "عمق",
+    "latitude": "خط العروض",
+    "longitude": " خط الطول",
+    "Nothing found with": "لم یتم العثور علی شیءمع",
+
+
+    "If you entered the wrong email": "اذا قمت بادخال البرید الاکترونی الخطاء",
+    "click here to correct it": "انقر هنا للتصحیح",
+    "A new email verification link has been emailed to you!": "تم ارسال ارتباط جدیدالتحقق من بریدک",
+
+    "for": "لَ",
+    "Posts Liked": "المشارکات التی تحبها",
+    "Please Sign Up": "الرجاء التسجیل",
+    "Bookmarked Posts": "المشازکات المرجعیة",
+
+    "Please enter your login and password": "الرجاء بإدخال اسم المستخدم و کلمة المرور الخاصة بک",
+    "Forgot password ?": "لقدنسیت کلمة مرور ؟",
+
+    "Homework Answers": "اجابات التعیین",
+    "Send Homework": "ارسال المهمة",
+    "Sign Up": "الیسجل",
+    "Don't have an account?": "لیس لدیک حساب ؟",
+    "Do you have an account ?": "هل لدیک حساب ؟",
+    "Reset Password": "استعادة کلمة السر",
+    "Please reset your password": "یرجی استعادة کلمه المرور الخاصة بک",
+    "Reset": "الاستعادة",
+    "Forget Password": "هل نسیت کلمة السر",
+    "Please enter your email": "الرجائ إدخال عنوان البرید الالکترونی",
+
+
+    "english": "إنجلیزی",
+    "Address": "العنوان",
+    "Phone number": "رقم التلیفون",
+    "Support": "االیدعم",
+    "Contact Us": "إتصل بنا",
+
+    "College": "کلیة",
+
+    "name": "اسم",
+    "email": "برید الکترونی",
+    "subject": "مشکلة",
+    "message": "الرسالة",
+    "Message": "الرسالة",
+
+
+    "send": "یقدًم",
+
+    "Posts": "المقالات",
+    "Professors": "أساتذة",
+    "frequently asked questions": "اسئلة مکررة",
+
+    "Category": "التجمع",
+    "All": "الجمیع",
+    "gallery of photos": "معرض الصور",
+    "Home": "الصفحة الرئیسیة",
+
+    "About Us": "المصومات عنا",
+    "Events": "الأحداث",
+    "Event": "الحدث",
+    "News": "أخبار",
+    "Gallery": "صالة عرض",
+    "Contact to": "الاتصال",
+    "All Events": "الحمیع الأحداث",
+    "All News": "کل الأخبار",
+    "search": "یبحث",
+
+    "Write a comment": "اکتب تعلیقا",
+
+    "Likes": "الاعجابات",
+    "Comments": "تعلیقات",
+    "Comment": "رأی",
+    "cancel":"إالفاء",
+    "Bookmarks": "المرجعیة",
+    "publishing article": "نشز المحتوا",
+    "Exit": "مخرج",
+    "Upload profile picture: (click on the picture)" : "قم بتحمیل صورة الملف الشخصی: (اضغط غلی الصورة)",
+    "submit": "سجل",
+    "news": "الاخبار",
+    "posts": "المقالات",
+    "post": "الشرط",
+    "Press ESC to close": "اضغط علی ESP للاغلاف",
+    "Write something to search for": "ابحث عن شیء للبحث عنه",
+    "Edit Homework": "تحریرالمهمة",
+    "Create Homework": "قم بانشاء مهمه",
+    "Homeworks": "تعیینات",
+    "Lessons": "الدروس",
+    "Please": "لو سمحت",
+    "Writer": "الکاتب",
+    "login": "یسجل",
+    "to news a comment": "انقر لنشز تعلیق",
+    "Date of Release": "یسجل التاریخ النشر",
+    "Compilation": " التألیف",
+    "Please login to bookmark this post!": " الرجاء تسجيل الدخول لوضع إشارة مرجعية على هذا المنشور!",
+    "ok" : " تأكيد",
+    "tag" : " بطاقة شعار",
+    "tags" : " العلامات",
+    "Do you want to login?" : " هل تريد الدخول ؟",
+    "Please login to like this post!" : " الرجاء تسجيل الدخول لإعجاب هذا المنشور!",
+
+    "Success" : " نجاح",
+    "Your user information edited !" : "! تم تحرير معلومات المستخدم الخاصة بك",
+    "Your message has been successfully sent !" : " تم إرسال رسالتك بنجاح ",
+
+    "Your comment has been sent !" : " لقد تم ارسال تعليقك !",
+
+
+
+
+    "Apply": " يتقدم",
+    "Blog": " مدونة",
+
+
+    "reply to" : " الرد على ",
+    "Reply" : "رد",
+    "reply" : "رد",
+    "Show Replies" : " إظهار الردود",
+
+    "with": " مع",
+    "All Posts" : " جميع المشاركات"
+
+}
